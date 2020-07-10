@@ -1,0 +1,5 @@
+{
+  "tests/test_pythonic.py::test_band_exsists": true, 
+  "tests/test_pythonic.py::test_band_is_str": true, 
+  "tests/test_pythonic_garage_band.py": true
+}
